@@ -1,0 +1,27 @@
+baseURL = "https://fergusfettes.github.io/schau-radio"
+languageCode = "en-us"
+title = "Template for Schau Radio"
+theme = "hugrid"
+
+contentdir = "content"
+datadir = "data"
+layoutdir = "layouts"
+publishdir = "public"
+
+
+[params]
+    # Meta
+    title = "Schau Radio Homepage"
+    subtitle = "Template for Schau Radio"
+    author = "__schau"
+    description = "__schau will run a radio show from here"
+    keywords = "__scahu, radio, art, Vienna"
+
+    # Body background color
+    bodybgcolor = "#f9f9f9"
+
+    # Preview container button text
+    buttontext = "RADIOO"
+
+    # Footer text
+    footertext = "Made."
