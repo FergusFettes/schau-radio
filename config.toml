@@ -1,4 +1,4 @@
-baseURL = "http://www.fergusfettes.com/schau-radio"
+baseURL = "https://www.fergusfettes.com/schau-radio"
 languageCode = "en-us"
 title = "Template for Schau Radio"
 theme = "hugrid"
