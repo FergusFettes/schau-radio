@@ -1,9 +1,8 @@
 ---
-title: "Test"
-date: 2020-12-20T17:17:55+01:00
-summary: "Test"
-authorImage: "https://storage.googleapis.com/schau-wien-images/fergus/old_profile.jpg"
+title: "25/8 Hofmuehlgasse"
+date: 2021-04-04T20:03:40+01:00
+summary: "Livetream from Hofmuehlgasse"
 type: "post"
 ---
 
-This is just a little test post to see how its going.
+{{< peertube "https://tube.tchncs.de/videos/embed/f77af094-1829-47d9-b97f-b5892759bee9" >}}
