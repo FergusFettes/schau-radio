@@ -7,6 +7,7 @@ title = "Old Boathouse"
 url = "https://tube.tchncs.de/videos/watch/f77af094-1829-47d9-b97f-b5892759bee9"
 url2 = "/posts/25hofm/"
 buttontext = "EXTERN"
+
 [[streams]]
 alt = "Test Alt"
 description = "Arles c. 1901"
@@ -15,4 +16,5 @@ thumb = "https://storage.googleapis.com/schau-wien-images/media/fergus.jpeg"
 title = "The Poulterers’ Corner"
 url = "https://tube.tchncs.de/videos/watch/f77af094-1829-47d9-b97f-b5892759bee9"
 url2 = "/posts/25hofm/"
+buttontext = "EXTERN"
 buttontext2 = "INTERN"
