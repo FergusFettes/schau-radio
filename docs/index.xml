@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://www.fergusfettes.com/</link>
+    <link>https://radio.schau-wien.at/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Apr 2021 20:03:40 +0100</lastBuildDate>
     
-	<atom:link href="https://www.fergusfettes.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://radio.schau-wien.at/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>25/8 Hofmuehlgasse</title>
-      <link>https://www.fergusfettes.com/posts/25hofm/</link>
+      <link>https://radio.schau-wien.at/posts/25hofm/</link>
       <pubDate>Sun, 04 Apr 2021 20:03:40 +0100</pubDate>
       
-      <guid>https://www.fergusfettes.com/posts/25hofm/</guid>
+      <guid>https://radio.schau-wien.at/posts/25hofm/</guid>
       <description>Livetream from Hofmuehlgasse</description>
     </item>
     
     <item>
       <title>Work In Progress</title>
-      <link>https://www.fergusfettes.com/posts/todo/</link>
+      <link>https://radio.schau-wien.at/posts/todo/</link>
       <pubDate>Sun, 04 Apr 2021 20:03:40 +0100</pubDate>
       
-      <guid>https://www.fergusfettes.com/posts/todo/</guid>
+      <guid>https://radio.schau-wien.at/posts/todo/</guid>
       <description>There will be a minimal page with an embed of the object and some information here.</description>
     </item>
     
