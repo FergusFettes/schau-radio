@@ -1,6 +1,6 @@
 baseURL = "https://www.fergusfettes.com/schau-radio/"
 languageCode = "en-us"
-title = "Template for Schau Radio"
+title = "Schau Radio"
 theme = "hugrid"
 
 contentdir = "content"
@@ -21,7 +21,7 @@ publishdir = "public"
     bodybgcolor = "#f9f9f9"
 
     # Preview container button text
-    buttontext = "RADIOO"
+    buttontext = "TO THE STREEEEEEEM"
 
     # Footer text
     footertext = "Made."
