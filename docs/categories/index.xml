@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Template for Schau Radio</title>
-    <link>https://www.fergusfettes.com/schau-radio/categories/</link>
-    <description>Recent content in Categories on Template for Schau Radio</description>
+    <title>Categories on </title>
+    <link>https://www.fergusfettes.com/categories/</link>
+    <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://www.fergusfettes.com/schau-radio/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.fergusfettes.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

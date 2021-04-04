@@ -3,15 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.fergusfettes.com/schau-radio/categories/</loc>
+    <loc>https://www.fergusfettes.com/</loc>
+    <lastmod>2021-04-04T20:03:40+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.fergusfettes.com/schau-radio/tags/</loc>
+    <loc>https://www.fergusfettes.com/posts/25hofm/</loc>
+    <lastmod>2021-04-04T20:03:40+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.fergusfettes.com/schau-radio/</loc>
+    <loc>https://www.fergusfettes.com/posts/</loc>
+    <lastmod>2021-04-04T20:03:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fergusfettes.com/posts/todo/</loc>
+    <lastmod>2021-04-04T20:03:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fergusfettes.com/contact/</loc>
+    <lastmod>2020-12-20T17:25:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fergusfettes.com/about/</loc>
+    <lastmod>2020-12-20T17:22:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fergusfettes.com/posts/test-post/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fergusfettes.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.fergusfettes.com/tags/</loc>
   </url>
   
 </urlset>
