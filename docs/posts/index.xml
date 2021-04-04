@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on </title>
+    <title>streams on </title>
     <link>https://www.fergusfettes.com/posts/</link>
-    <description>Recent content in Posts on </description>
+    <description>Recent content in streams on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Apr 2021 20:03:40 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 20 Dec 2020 17:22:42 +0100</lastBuildDate>
     
 	<atom:link href="https://www.fergusfettes.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,15 +27,6 @@
       
       <guid>https://www.fergusfettes.com/posts/todo/</guid>
       <description>There will be a minimal page with an embed of the object and some information here.</description>
-    </item>
-    
-    <item>
-      <title>The Day I Met Emily Carr</title>
-      <link>https://www.fergusfettes.com/posts/test-post/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>https://www.fergusfettes.com/posts/test-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
   </channel>
