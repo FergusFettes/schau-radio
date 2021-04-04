@@ -294,6 +294,8 @@ var Grid = (function() {
             var $itemElement = this.$item.children('a'),
                 elementData = {
                     largesrc : $itemElement.data('largesrc'),
+                    url : $itemElement.data( 'url' ),
+                    url2 : $itemElement.data( 'url2' ),
                     title : $itemElement.data('title'),
                     description : $itemElement.data('description'),
                     mediums : $itemElement.data('mediums'),
@@ -304,6 +306,22 @@ var Grid = (function() {
             this.$description.html(elementData.description);
             this.$mediums.html(elementData.mediums);
             this.$dimensions.html(elementData.dimensions);
+
+						if (elementData.url) {
+							this.$href.attr( 'href', elementData.url );
+							this.$href.show();
+						}
+						else {
+							this.$href.hide();
+						}
+
+						if (elementData.url2) {
+							this.$href2.attr( 'href', elementData.url2 );
+							this.$href2.show();
+						}
+						else {
+							this.$href2.hide();
+						}
 
             var self = this;
 
