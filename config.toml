@@ -3,6 +3,8 @@ languageCode = "en-us"
 sectionPagesMenu = "main"
 theme = "frances"
 
+publishDir = 'docs'
+
 [params]
     # Meta
     name = "Schau Radio"
