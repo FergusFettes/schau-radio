@@ -295,6 +295,8 @@ var Grid = (function() {
                 elementData = {
                     largesrc : $itemElement.data('largesrc'),
                     url : $itemElement.data( 'url' ),
+                    buttontext : $itemElement.data( 'buttontext' ),
+                    buttontext2 : $itemElement.data( 'buttontext2' ),
                     url2 : $itemElement.data( 'url2' ),
                     title : $itemElement.data('title'),
                     description : $itemElement.data('description'),
@@ -314,6 +316,11 @@ var Grid = (function() {
 						else {
 							this.$href.hide();
 						}
+
+						if(elementData.buttontext) this.$href.text(elementData.buttontext);
+						else this.$href.text("BUTTON1")
+						if(elementData.buttontext2) this.$href2.text(elementData.buttontext2);
+						else this.$href2.text("BUTTON2")
 
 						if (elementData.url2) {
 							this.$href2.attr( 'href', elementData.url2 );
