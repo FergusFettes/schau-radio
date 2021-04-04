@@ -11,8 +11,8 @@ publishdir = "public"
 
 [params]
     # Meta
-    title = "Schau Radio Homepage"
-    subtitle = "Template for Schau Radio"
+    title = "Schau Radio"
+    subtitle = "_schauradio"
     author = "__schau"
     description = "__schau will run a radio show from here"
     keywords = "__scahu, radio, art, Vienna"
