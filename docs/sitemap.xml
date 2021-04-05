@@ -3,28 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://radio.schau-wien.at/streams/25hofm/</loc>
+    <lastmod>2021-04-04T20:03:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://radio.schau-wien.at/streams/todo/</loc>
+    <lastmod>2021-04-04T20:03:40+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://radio.schau-wien.at/</loc>
-    <lastmod>2021-04-04T20:03:40+01:00</lastmod>
+    <lastmod>2020-12-20T17:22:42+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://radio.schau-wien.at/posts/25hofm/</loc>
-    <lastmod>2021-04-04T20:03:40+01:00</lastmod>
+    <loc>https://radio.schau-wien.at/contact/</loc>
+    <lastmod>2020-12-20T17:22:42+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://radio.schau-wien.at/posts/todo/</loc>
-    <lastmod>2021-04-04T20:03:40+01:00</lastmod>
+    <loc>https://radio.schau-wien.at/live/</loc>
+    <lastmod>2020-12-20T17:22:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://radio.schau-wien.at/streams/</loc>
+    <lastmod>2020-12-20T17:22:42+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://radio.schau-wien.at/about/</loc>
-    <lastmod>2020-12-20T17:22:42+01:00</lastmod>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://radio.schau-wien.at/posts/</loc>
-    <lastmod>2020-12-20T17:22:42+01:00</lastmod>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://radio.schau-wien.at/posts/test-post/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://radio.schau-wien.at/streams/test-post/</loc>
   </url>
   
   <url>
