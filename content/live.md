@@ -5,4 +5,4 @@ description: ""
 type: "post"
 ---
 
-{{< peertube "https://tube.tchncs.de/videos/embed/f77af094-1829-47d9-b97f-b5892759bee9" >}}
+{{< youtube "PUPaJe0kMd4" >}}
